@@ -2,7 +2,7 @@
 
 A multithreaded TCP port scanner written in Python. Designed to identify open ports on a target host, detect running services, grab service banners, and export results to a structured report.
 
-> ⚠️ **Ethical Use Only** — Only scan systems you own or have explicit written permission to test. Unauthorized scanning may be illegal.
+> ⚠️ **Ethical Use Only**
 
 ---
 
